@@ -1,1 +1,10 @@
-%h1 buenvida
+.memories-wrapper.row
+  -@memories.each do |memory|
+    .memory
+      .memory-head
+        .name
+          Collin Glass
+      .image.center-block
+        =link_to (image_tag memory.image.url(:medium), class:'imgresponsive'), memory_path(memory)
+      %p.caption
+        =memory.caption
