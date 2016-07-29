@@ -1,0 +1,1243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"handle",
+				"handleStartPress"
+			],
+			[
+				"pad",
+				"pageId"
+			],
+			[
+				"d",
+				"driverRoomId"
+			],
+			[
+				"_",
+				"_saveData"
+			],
+			[
+				"mes",
+				"message〔variable〕"
+			],
+			[
+				"uni",
+				"uniqueId"
+			],
+			[
+				"message",
+				"messageId"
+			],
+			[
+				"publi",
+				"published"
+			],
+			[
+				"new",
+				"newMsgs"
+			],
+			[
+				"subs",
+				"subscribed"
+			],
+			[
+				"me",
+				"messages"
+			],
+			[
+				"get",
+				"getInitialMessages"
+			],
+			[
+				"re",
+				"receive"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"compon",
+				"componentWillUnmount"
+			],
+			[
+				"pub",
+				"pubOps"
+			],
+			[
+				"Styl",
+				"StyleSheet〔class〕"
+			],
+			[
+				"Mech",
+				"MechanicMain"
+			],
+			[
+				"S",
+				"SlackApiUrl	 Ɩ"
+			],
+			[
+				"Print",
+				"Println	 ƒ"
+			],
+			[
+				"Ic",
+				"IconUrl	string ν"
+			],
+			[
+				"Sla",
+				"SlackNotfication	struct ʈ"
+			],
+			[
+				"P",
+				"Printf	 ƒ"
+			],
+			[
+				"poke",
+				"pokemon〔argument〕"
+			],
+			[
+				"pok",
+				"pokemon〔argument〕"
+			],
+			[
+				"inde",
+				"indent=2"
+			],
+			[
+				"search",
+				"searchTerm"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"max",
+				"maxRuns	 ν"
+			],
+			[
+				"Op",
+				"OpenFile	*os.File, error ƒ"
+			],
+			[
+				"Pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"StatusBa",
+				"StatusBadRequest	 Ɩ"
+			],
+			[
+				"host",
+				"host_name"
+			],
+			[
+				"pric",
+				"pricingPlan1〔variable〕"
+			],
+			[
+				"ht",
+				"httpsUrl"
+			],
+			[
+				"htt",
+				"httpsSrc"
+			],
+			[
+				"http",
+				"httpsUrl"
+			],
+			[
+				"inpu",
+				"inputGroups〔variable〕"
+			],
+			[
+				"test",
+				"testUser"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"jo",
+				"jordanToken	string ν"
+			],
+			[
+				"coll",
+				"collinKeyId	string ν"
+			],
+			[
+				"pas",
+				"passwordConfirmation〔variable〕"
+			],
+			[
+				"prop",
+				"prototype〔variable〕"
+			],
+			[
+				"sho",
+				"showAsyncValidating"
+			],
+			[
+				"L",
+				"LoginFormComponent"
+			],
+			[
+				"Sub",
+				"SubscriptionFormComponent"
+			],
+			[
+				"chan",
+				"changedEmail"
+			],
+			[
+				"cha",
+				"changedValue"
+			],
+			[
+				"use",
+				"usernameError"
+			],
+			[
+				"us",
+				"usernameError"
+			],
+			[
+				"user",
+				"usernameError"
+			],
+			[
+				"ren",
+				"renderer"
+			],
+			[
+				"Rea",
+				"ReactDOM"
+			],
+			[
+				"n",
+				"newPassword"
+			],
+			[
+				"inp",
+				"inputs〔variable〕"
+			],
+			[
+				"fiel",
+				"fields〔variable〕"
+			],
+			[
+				"push",
+				"pushState"
+			],
+			[
+				"load",
+				"loadCategories"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"dat",
+				"dataSrc"
+			],
+			[
+				"Prin",
+				"Println	 ƒ"
+			],
+			[
+				"hard",
+				"hardmail"
+			],
+			[
+				"API",
+				"APIHOST"
+			],
+			[
+				"Na",
+				"Navbar"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"la",
+				"language"
+			],
+			[
+				"catego",
+				"categoryTranslation"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"lis",
+				"listView"
+			],
+			[
+				"href",
+				"hreflang"
+			],
+			[
+				"Get",
+				"Getenv	string ƒ"
+			],
+			[
+				"ad",
+				"adWidth"
+			],
+			[
+				"compo",
+				"componentDidMount	Life Cycle Method"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"cate",
+				"categoryPath"
+			],
+			[
+				"swi",
+				"switchText〔variable〕"
+			],
+			[
+				"loc",
+				"localMobile〔variable〕"
+			],
+			[
+				"lo",
+				"localLang"
+			],
+			[
+				"game",
+				"gameTranslation"
+			],
+			[
+				"is",
+				"isRequired"
+			],
+			[
+				"s3",
+				"s3Path"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"mob",
+				"mobile〔variable〕"
+			],
+			[
+				"own",
+				"ownProps"
+			],
+			[
+				"as",
+				"asyncConnect"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"ins",
+				"insecureSrc〔variable〕"
+			],
+			[
+				"fb",
+				"fbUrl"
+			],
+			[
+				"games",
+				"gamesText"
+			],
+			[
+				"gam",
+				"games"
+			],
+			[
+				"mo",
+				"mobileText"
+			],
+			[
+				"task",
+				"taskInt	int ʈ"
+			],
+			[
+				"sea",
+				"search"
+			],
+			[
+				"cre",
+				"createGamesParams〔class〕"
+			],
+			[
+				"fun",
+				"func"
+			],
+			[
+				"Pro",
+				"PropTypes"
+			],
+			[
+				"sear",
+				"searchDescription"
+			],
+			[
+				"loa",
+				"loadMoreGames"
+			],
+			[
+				"pp",
+				"ppText"
+			],
+			[
+				"Not",
+				"NotFound"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"link",
+				"links"
+			],
+			[
+				"att",
+				"attrsPre"
+			],
+			[
+				"def",
+				"defaultAttrs〔variable〕"
+			],
+			[
+				"hre",
+				"hrefLang"
+			],
+			[
+				"pro",
+				"property〔variable〕"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"righ",
+				"rightButton〔variable〕"
+			],
+			[
+				"ri",
+				"rightButtonElem"
+			],
+			[
+				"left",
+				"leftButtonElem〔variable〕"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"Cate",
+				"Category	struct ʈ"
+			],
+			[
+				"cat",
+				"catgame	CategoryGame ν"
+			],
+			[
+				"Cat",
+				"Category	struct ʈ"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"logo",
+				"logoImage"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"recom",
+				"recommending〔variable〕"
+			],
+			[
+				"hand",
+				"handleLoadingState"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"erro",
+				"errorText"
+			],
+			[
+				"err",
+				"errorText"
+			],
+			[
+				"height",
+				"min-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/application_controller.rb",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/memories_controller.rb",
+			"settings":
+			{
+				"buffer_size": 53,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1715,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"phpfmt",
+				"phpfmt: format now"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/collinglass/code/go/src/github.com/collinglass/buenvida",
+		"/Users/collinglass/code/go/src/github.com/collinglass/buenvida/app",
+		"/Users/collinglass/code/go/src/github.com/collinglass/buenvida/app/controllers"
+	],
+	"file_history":
+	[
+		"/Users/collinglass/code/go/src/github.com/collinglass/gitlab/gitlab.sublime-project",
+		"/Users/collinglass/code/go/src/github.com/collinglass/gitlab/config/routes.rb",
+		"/Users/collinglass/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/collinglass/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/collinglass/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/package.json",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/node_modules/react/lib/ReactCompositeComponent.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/screens/first.load.js",
+		"/Users/collinglass/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/node_modules/react/lib/ReactReconciler.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/screens/MechanicMain.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/redux/index.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/libs/Backendless.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/containers/index.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/redux/messenger.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/screens/index.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/screens/Connect.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/containers/app.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/reducers/messenger.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/actions/messenger.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/screens/DriverMain.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/screens/StopWatch.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/screens/Messenger.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/components/TabBar.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/require.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/styles.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/node_modules/react-native/Libraries/Components/Touchable/Touchable.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/screens/forms.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp/screens/soon.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/index.ios.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/index.android.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/platform-ws-services/model_check_seed_test.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/platform-ws-services/model_deployment.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/platform-ws-services/model_group.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/platform-ws-services/main.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/platform-ws-services/alerter.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/platform-ws-services/handle_alerts.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/platform-ws-services/README.md",
+		"/Users/collinglass/code/go/src/github.com/collinglass/alwayson/package.json",
+		"/Users/collinglass/code/go/src/github.com/collinglass/PoGoApi/webtask.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/PoGoApi/logins.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/scrapers/pizza-ottawa.csv",
+		"/Users/collinglass/code/go/src/github.com/collinglass/scrapers/coffee-and-cafe-montreal.csv",
+		"/Users/collinglass/code/go/src/github.com/collinglass/scrapers/coffee-and-cafe-ottawa.csv",
+		"/Users/collinglass/code/go/src/github.com/collinglass/scrapers/output.csv",
+		"/Users/collinglass/code/go/src/github.com/collinglass/scrapers/fbscraper/fbscraper.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/scrapers/fbscraper/index.php",
+		"/Users/collinglass/code/go/src/github.com/collinglass/scrapers/fbscraper/ajax.php",
+		"/Users/collinglass/code/go/src/github.com/collinglass/scrapers/fbscraper/functions.php",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/helpers/ApiClient.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/Account/Account.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/package.json",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/Game/Game.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/App/App.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/PricingTable/PricingTable.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/helpers/i18n.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server/api/api.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server/core/utils/users.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/Login/Login.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server/api/routes/me/me.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/mailwizz/latest/README.md",
+		"/Users/collinglass/code/go/src/github.com/collinglass/wordpress/wp-config.php",
+		"/Users/collinglass/code/go/src/github.com/brookglass/website/content/blog/creating-a-new-theme.md",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/playbooks/setupSnapshot.yml",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/config/host_list",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/playbooks/setupServer.yml",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/playbooks/setupSnapshot.yml",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/playbooks/hosts",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/playbooks/ansible.cfg",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/playbooks/check.json",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/snapshot-commands.sh",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/setupDNS.go",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/createDroplet.go",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/setupSnapshot.go",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/full-commands.sh",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/setupSnapshot.yml",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/easyssh.go",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/haraka/inbound.haraka.service",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/haraka/outbound.haraka.service",
+		"/Users/collinglass/code/go/src/github.com/collinglass/website/data/clients.toml",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/Signup/Signup.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/SignupForm/SignupFormComponent.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/SignupModal/SignupModal.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server/core/utils/stripe/stripe.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server/api/routes/auth/auth.go",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/NavBar/NavBar.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/App/App.scss",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/config.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/mesos/api.json",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/GameContainer/GameContainer.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/index.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/SocialButtons/SocialButtons.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/index.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/Account/Account.scss",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/__tests__/SignupForm-test.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/SignupForm/SignupForm.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/artofloving/themes/hugo-agency-theme/layouts/index.html",
+		"/Users/collinglass/code/go/src/github.com/collinglass/artofloving/layouts/index.html",
+		"/Users/collinglass/code/go/src/github.com/collinglass/artofloving/themes/hugo-agency-theme/layouts/partials/hero.html",
+		"/Users/collinglass/code/go/src/github.com/collinglass/artofloving/themes/hugo-agency-theme/static/font-awesome/css/font-awesome.min.css",
+		"/Users/collinglass/code/go/src/github.com/collinglass/artofloving/themes/hugo-agency-theme/layouts/partials/nav.html",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/haraka.log",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/commands.sh",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/main.go",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/haraka/config/dkim_sign.ini",
+		"/Users/collinglass/code/go/src/github.com/mtamer/smtp/server/haraka/body.txt",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/Input/Input.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/SignupForm/signupValidation.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/__tests__/AccountForm-test.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/Home/Home.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/Home/HomeComponent.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/AccountForm/AccountFormComponent.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/AccountForm/AccountForm.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/Input/Input.scss",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/AccountForm/AccountForm.scss",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/helpers/stripe.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/SubscriptionForm/SubscriptionFormComponent.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/SubscriptionForm/SubscriptionForm.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/__tests__/SubscriptionForm-test.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/AccountForm/validation.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/LoginForm/LoginForm.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/karma.conf.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/LoginForm/loginValidation.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/routes.jsx",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/__tests__/Advertisement-test.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/components/AccountForm/AccountFormInner.js",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/App/App.jsx",
+		"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/containers/Game/Game.jsx"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp",
+			"",
+			"/Users/collinglass/code/go/src/github.com/collinglass/pitboard/ReactApp",
+			"",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"",
+			"-/Library/WebServer/Documents/mailwizz/latest/apps/common/vendors/",
+			"",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/package.json",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/webpack",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/scripts",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/scripts",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/node_modules/react-user-tour",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/webpack",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/node_modules/neal-react",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/node_modules/neal-react",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/waitlist",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/gamerbet/LiberWave/server",
+			"/Users/collinglass/code/go/src/github.com/gamerbet/LiberWave",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/assets",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/tmpl",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server/api/bare",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src/theme",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri",
+			"/Users/collinglass/code/go/src/github.com/gamerbet/LiberWave/src",
+			"",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client/src",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/client",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			"",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/media",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/assets/js",
+			"/Users/collinglass/code/go/src/github.com/collinglass/jocuri/server",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tab",
+			"true",
+			"tab",
+			"array",
+			"laps",
+			"handleLapPress",
+			"emporarySwap",
+			"container",
+			"style",
+			"ScrollView",
+			"lapButton",
+			"startStopButton",
+			"this.state",
+			"},",
+			":()",
+			"function",
+			"function()",
+			":function",
+			"function",
+			"React",
+			"import",
+			"Component",
+			"require",
+			"var",
+			"handleSend",
+			"communications",
+			"Communications",
+			"linking",
+			"Awesome Developer",
+			"type",
+			"ComingSoon",
+			"menu",
+			"Menu",
+			"menu",
+			"screens/",
+			"GroupsHandlerFunc",
+			"alert",
+			"publishMessage('channel'",
+			"id",
+			"makeid",
+			"form",
+			"Form",
+			"form",
+			"Form",
+			"_signUp",
+			"_saveData",
+			"_signUp",
+			"form_values",
+			"_saveData",
+			"Messenger",
+			"allLoaded",
+			"load",
+			"React-Bot",
+			"handleReceive",
+			"message",
+			"STRINGIFY",
+			"length",
+			"scheduled",
+			"length",
+			"el",
+			"uniqueId",
+			"receive",
+			"published",
+			"subscribe",
+			"SUBSCRIBE",
+			"published",
+			"PUBLISH",
+			"message",
+			"props",
+			"messages",
+			"props",
+			"receive",
+			"this._messages",
+			"_messages",
+			"PUBLISH",
+			"console",
+			"publishMessage",
+			"actions",
+			"reducer",
+			"published",
+			"dispatch",
+			"initialState",
+			"publishMessage",
+			"mapDispatchToProps",
+			"thunk",
+			"dispatch",
+			"PublishOptions",
+			"Denver",
+			"then",
+			"console.log",
+			"PUBLISH",
+			"createStore",
+			"send",
+			"publishMessage",
+			"require(",
+			"require",
+			"require(",
+			"url",
+			"SideMenuActions",
+			"isOpen",
+			"messengerReducer",
+			"NavigationBar",
+			"sidemenu",
+			"sidemenue",
+			"SideMenuActions",
+			"redux/",
+			"reduxt/",
+			"require",
+			"Communications",
+			"var",
+			"false",
+			"sideMenu",
+			"messengerReducer",
+			"sideMenuReducer",
+			"PUBLISH",
+			"reducer",
+			"sideMenu",
+			"sidemenu",
+			"/actions/",
+			"sidemenu",
+			"v1",
+			"version",
+			"Backendless",
+			"container",
+			"msg",
+			"ScrollView",
+			"TouchableOpacity",
+			"AppDB"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://schema.org/Product",
+			"name: 'robots',",
+			"'noindex, nofollow'",
+			"",
+			"ownProps.",
+			"ownProps.routes",
+			"(state, ownProps) => ({",
+			".routing",
+			"\"github.com/collinglass/jocuri/server/core/utils\"",
+			"\"github.com/collinglass/jocuri/server/core/models\"",
+			"utils.RestPost",
+			"utils.CreateAndResponse",
+			"utils.RestDeleteById",
+			"utils.RestPutById",
+			"utils.RestGetById",
+			"utils.RestGetAll",
+			"\"github.com/collinglass/jocuri/server/models\"\n\"github.com/collinglass/jocuri/server/api/utils\"",
+			"package bare"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/application_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/memories_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gemfile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/collinglass/code/go/src/github.com/collinglass/fuzzy/data":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/collinglass/code/go/src/github.com/collinglass/jocuri/server/api/routes/auth":
+	{
+		"height": 112.0
+	},
+	"output.9o:///Users/collinglass/code/go/src/github.com/gamerbet/LiberWave/server":
+	{
+		"height": 112.0
+	},
+	"output.9o:///Users/collinglass/code/go/src/github.com/gamerbet/LiberWave/server/auth":
+	{
+		"height": 112.0
+	},
+	"output.9o:///Users/collinglass/code/go/src/github.com/gamerbet/api/backend":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/collinglass/code/go/src/github.com/gamerbet/api/backend/sql":
+	{
+		"height": 112.0
+	},
+	"output.9o:///Users/collinglass/code/go/src/github.com/gamerbet/api/scripts":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/collinglass/code/go/src/github.com/gamerbet/hugo/scripts":
+	{
+		"height": 112.0
+	},
+	"output.9o:///Users/collinglass/code/go/src/github.com/gamerbet/hugo/scripts/downloadMyVideos":
+	{
+		"height": 112.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 112.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 55.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "buenvida.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
