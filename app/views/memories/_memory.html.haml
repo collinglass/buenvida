@@ -15,8 +15,11 @@
             = memory.user.user_name
           = memory.caption
         .comments{id: "comments_#{memory.id}"}
-          - if memory.comments
-            = render memory.comments, memory: memory
+          - if memory.comments.any?
+            .paginator{id: "#comments-paginator-#{memory.id}"}
+              - unless memory.comments.count <= 4
+                = link_to "view all #{memory.comments.count} comments", memory_comments_path(memory), remote: true, class: 'more-comments',data: {memory_id: "#{memory.id}", type: "html"}
+            = render memory.comments.last(4), memory: memory
     .comment-like-form.row
       .like-button.col-sm-1
         %span(class="glyphicon glyphicon-heart-empty")
