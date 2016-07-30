@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
-  resources :memories
+  devise_for :users, :controllers => { registrations: 'registrations' }
+  resources :memories do
+    resources :comments
+  end
   root 'memories#index'
 end

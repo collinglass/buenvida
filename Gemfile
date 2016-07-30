@@ -9,6 +9,7 @@ gem 'haml'
 gem 'paperclip', '~> 4.2'
 gem 'simple_form', github: 'kesha-antonov/simple_form', branch: 'rails-5-0'
 gem 'bootstrap-sass', '~> 3.3.5'
+gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets

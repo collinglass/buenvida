@@ -1,4 +1,6 @@
 class MemoriesController < ApplicationController
+  before_action :authenticate_user!
+  before_action :owned_post, only: [:edit, :update, :destroy]
   before_action :set_memory, only: [:show, :edit, :update, :destroy]
 
   def index
@@ -9,11 +11,13 @@ class MemoriesController < ApplicationController
   end
 
   def new
-    @memory = Memory.new
+    @memory = current_user.memories.build
   end
 
   def create
-    if @memory = Memory.create(memory_params)
+    @memory = current_user.memories.build(memory_params)
+
+    if @memory.save
       flash[:success] = "Your memory has been created!"
       redirect_to memories_path
     else
@@ -50,5 +54,12 @@ class MemoriesController < ApplicationController
 
   def set_memory
     @memory = Memory.find(params[:id])
+  end
+
+  def owned_post
+    unless current_user == @memory.user
+      flash[:alert] = "That memory doesn't belong to you!"
+      redirect_to root_path
+    end
   end
 end

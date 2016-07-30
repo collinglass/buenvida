@@ -1,13 +1,9 @@
-.memories-wrapper.row
-  .memory
-    .memory-head
-      .name
-        Collin Glass
-    .image.center-block
-      =image_tag @memory.image.url(:medium)
-    %p.caption
-      =@memory.caption
-    .text-center
-      = link_to "Edit Memory", edit_memory_path(@memory)
-      |
-      =link_to "Cancel", memories_path
+= render 'memory', memory: @memory
+- if @memory.user.id == current_user.id
+  .text-center.edit-links
+    = link_to "Cancel", memories_path
+    |
+    = link_to "Edit Memory", edit_memory_path(@memory)
+- else
+  .text-center.edit-links
+    =link_to "Cancel", memories_path
