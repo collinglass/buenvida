@@ -1,10 +1,10 @@
 class MemoriesController < ApplicationController
   before_action :authenticate_user!
-  before_action :owned_post, only: [:edit, :update, :destroy]
+  before_action :owned_memory, only: [:edit, :update, :destroy]
   before_action :set_memory, only: [:show, :edit, :update, :destroy]
 
   def index
-    @memories = Memory.all
+    @memories = Memory.all.order('created_at DESC').page params[:page]
   end
   
   def show
@@ -56,7 +56,7 @@ class MemoriesController < ApplicationController
     @memory = Memory.find(params[:id])
   end
 
-  def owned_post
+  def owned_memory
     unless current_user == @memory.user
       flash[:alert] = "That memory doesn't belong to you!"
       redirect_to root_path

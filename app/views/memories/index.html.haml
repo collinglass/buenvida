@@ -1,3 +1,4 @@
-.memories-wrapper.row
-  -@memories.each do |memory|
-    = render 'memory', memory: memory
+#memories
+  = render 'memories'
+#paginator.text-center
+  = link_to_next_page @memories, 'LOAD MORE', remote: true, id: 'load_more'

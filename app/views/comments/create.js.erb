@@ -1,0 +1,2 @@
+$('#comments_<%= @memory.id %>').append("<%=j render 'comments/comment', memory: @memory, comment: @comment %>");
+$('#comment_content_<%= @memory.id %>').val('')

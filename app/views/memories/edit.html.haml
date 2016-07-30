@@ -1,7 +1,5 @@
-.text-center
-  = image_tag @memory.image.url(:medium)
-  = render 'form'
-  .text-center.edit-links
-    = link_to "Delete Memory", memory_path(@memory), method: :delete, data: { confirm: "Are you sure you want to delete this memory?" }
-    |
-    = link_to "cancel", memories_path
+= render 'form'
+.text-center.edit-links
+  = link_to "Delete Memory", memory_path(@memory), method: :delete, data: { confirm: "Are you sure you want to delete this memory?" }
+  |
+  = link_to "cancel", memories_path
